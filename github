@@ -1,0 +1,61 @@
+from PIL import Image
+
+filename = "C:\\\\Users\\Administrator\\Downloads\\_37685a72-1951-48b7-9779-d5ccd446e9a0.jpg"
+
+img = Image.open(filename)
+
+img.show()
+
+print(img)
+
+print("The Symphony of Code: A Python Programmer's Journey")
+print()
+print("Thinking in Python a language so concise")
+print("A misplaced quote, a missing space, cay pay the price")
+print("What does it take, you ask, to mast this art?")
+print("A few lines of code, a logical start")
+print()
+print("Complex or simple, graphic or bare,")
+print("In the realm of code, it's all fair.")
+print("Qualitive or quantitive, the choice is yours,")
+print("In the traffic of algorithms, oppurtunity soars.,")
+print()
+print("Why, oh why, does it happen, you ponder,")
+print("This interaction, this challenge,this wonder?")
+print("It's the passion that fuels us, the thrill of creation,")
+print("Finding solutions, that's the real fascination.")
+print()
+print("Oppurtunities abound, like magic, they appear,")
+print("With eery line of code, the path becomes clear.")
+print("Abracadabra, with a keyboard and a plan,")
+print("Don't let the problem distract, that's the lifespan.")
+print()
+print("What's your reaction, you ask, when realities clash,")
+print("When perspectives and layouts begin to crash?")
+print("Stay on the air, keep the energy alive,")
+print("In the world of code, that's how we thrive.")
+print()
+print()
+print()
+print()
+print("By Timothy Wheels")
+print("@datawheelsatl")
+
+print("Notice")
+
+
+
+
+print("""Copyright 2024 Timothy Wheels
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.""")
